@@ -25,8 +25,7 @@
 
 > “This is not a market. This is a moral failure.”
 
-**Author**: [Your Full Name]  
-**Grade**: Distinction (Outstanding)  
+**Author**: Md Rabiul Alam  
 **Impact**: Policy-ready evidence
 
 ---
