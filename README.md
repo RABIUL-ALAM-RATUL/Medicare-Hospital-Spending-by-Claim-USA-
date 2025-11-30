@@ -8,7 +8,7 @@
 
 ### Interactive Results (click below)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/us-nursing-home-crisis-2025/blob/main/Nursing_Home_Crisis_2025.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/[github.com/RABIUL-ALAM-RATUL/us-nursing-home-crisis-2025](https://github.com/RABIUL-ALAM-RATUL/Medicare-Hospital-Spending-by-Claim-USA-)/blob/main/Medicare-Hospital-Spending-by-Claim-USA.ipynb)
 
 **One click → full interactive analysis with hoverable Plotly SHAP plots**
 
